@@ -1,0 +1,4 @@
+opencv-python
+# MemeCV uses the legacy FaceMesh/Hands API (mp.solutions).
+# MediaPipe 0.10.31+ removed that API; keep this compatible with MemeCV.
+mediapipe==0.10.31
